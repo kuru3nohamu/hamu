@@ -1,0 +1,40 @@
+@charset "utf-8";  
+
+
+  body{
+    margin: 0;/*ページの余白をなくす(bodyに既存で存在しているmarginを0にしている)*/
+  }
+
+  .start{
+    font-weight: bold;
+    text-indent: 5%;
+    background-color: rgb(230, 176, 176);
+  }
+
+
+  nav{
+    font-weight: bold;
+    border: solid 1px #b57e7e;
+    background-color: #f2eaea;
+    position: fixed;
+    width: 120%;
+  }
+
+  .a{
+    font-size: 150%;
+  }
+
+  .a1{
+    font-size: 150%;
+    color: #8b2929;
+  }
+
+  .space {
+    letter-spacing: 5em;
+    font-size: 150%;
+  }
+
+  .color{
+    color: brown;
+  }
+
